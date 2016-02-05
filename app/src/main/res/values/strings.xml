@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AwesomeApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="greetings">My new application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_properties">Properties</string>
+    <string name="title_activity_enter_data">EnterData</string>
+    <string name="title_activity_show_data">ShowData</string>
+    <string name="title_activity_customized_view">CustomizedView</string>
+    <string-array name="toasts">
+        <item>Greetings!</item>
+        <item>My Lord!</item>
+        <item>Sir!</item>
+        <item>Ahoy!</item>
+        <item>Hola!</item>
+    </string-array>
+
+    <string-array name="destination">
+        <item>DoNotSave</item>
+        <item>InternalStorage</item>
+        <item>ExternalStorage</item>
+    </string-array>
+
+    <string-array name="systems">
+    <item>Windows</item>
+    <item>Linux</item>
+    <item>iOS</item>
+    <item>Android</item>
+    <item>Blackberry</item>
+    </string-array>
+</resources>
